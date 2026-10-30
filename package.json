@@ -1,0 +1,16 @@
+{
+  "name": "vless-ws",
+  "version": "2.0.0",
+  "description": "VLESS over WebSocket server with a tiny link page",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules/
+uuid.txt
+.env
+core
+core.*
